@@ -74,7 +74,7 @@ The [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard
 The keycap design is kept as simple and accessible as possible. It always contains text in the center portion of the key to describe the key function (with full words or abbreviations) and a symbol in the top left corner to represent what key it originally was, in case you want to use the keyboard as standard keyboard once again. The font is the used by Apple in its own keyboards.The shapes are ment to create contrast with the text and add meaning that matches with the keycap function. The background colors are chosen from [Apple Accessible + Vibrant macOS system color palette](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/). Color gradients are trendy these days, but printers don't get along with them, and, since the keycaps have to be printed, solid colors were a better choice.
 Background colors were assigned as such:
 
-| COLOR         | ASSIGNED TO   | NOTE|
+| COLOR         | ASSIGNED TO   | NOTES |
 | :-----------: |---------------| ------|
 | Blue          | Video         | Video role is blue. Everything you can inspect in the Video inspector |
 | Green         | Audio         | Music role is green. Everything you can inspect in the Audio inspector |
@@ -85,7 +85,7 @@ Background colors were assigned as such:
 
 The currently available keycaps are:
 
-| Keycap         | NOTE|
+| KEYCAP        | NOTES |
 | :-----------: | ------|
 | Add-Blend          | [Set Blend Mode to Add](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Blend%20mode.scpt) |
 | Adjustment-Layer         | Add an Adjustment Layer title to the timeline |
