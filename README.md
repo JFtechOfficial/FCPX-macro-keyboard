@@ -71,7 +71,7 @@ if you have more advanced needs (concatenating multiple CommandPost actions / FC
 
 The [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) contains custom made keycaps you can print on adhesive paper and stick on your orignial keycaps.
 
-The keycap design is kept as simple and accessible as possible. It always contains text in the center portion of the key to describe the key function (with full words or abbreviations) and a symbol in the top left corner to represent what key it originally was, in case you want to use the keyboard as standard keyboard once again. The font is the used by Apple in its own keyboards.The shapes are ment to create contrast with the text and add meaning that matches with the keycap function. The background colors are chosen from [Apple Accessible + Vibrant macOS system color palette](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/). Color gradients are trendy these days, but printers don't get along with them, and, since the keycaps have to be printed, solid colors were a better choice.
+The keycap design is kept as simple and accessible as possible. It always contains text in the center portion of the key to describe the key function (with full words or abbreviations) and a symbol in the top left corner to represent what the key originally was, in case you want to use the keyboard as standard keyboard once again. The font is the one used by Apple in its own keyboards. The shapes are ment to create contrast with the text and add meaning (that matches with the keycap function). The background colors are chosen from [Apple Accessible + Vibrant macOS system color palette](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/). Color gradients are trendy these days, but printers don't get along with them, and, since the keycaps have to be printed, solid colors were a better choice.
 Background colors were assigned as such:
 
 | COLOR         | ASSIGNED TO   | NOTES |
@@ -83,7 +83,7 @@ Background colors were assigned as such:
 | Purple        | Title/Generator | Title role is purple. Everything you can inspect in the Generator inspector |
 | Red           | Clips, media & other | Here is everything left |
 
-The currently available keycaps are:
+The currently available keycap designs are:
 
 | KEYCAP        | NOTES |
 | :-----------: | ------|
@@ -134,36 +134,58 @@ The currently available keycaps are:
 
 
 Use the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) to preview and customize how you want to arrange your macro keys.
+How to modify the layout:
+1) modify keycap layer position
+2) open keycap psd
+3) change the character in the top left corner (should match the key it's covering)
+4) save and close the keycap psd
+
 If the keyboard layout you are using fits in an A4 paper sheet you are ready to print, otherwise you have to rearrange the keycap designs to make them fit.
 
-Supported layouts (A4):
+Supported layouts (also A4-compatible):
 * Apple en_US keyboard layout
 * Apple en_International keyboard layout
 
 
 ## 🎁 Contributing
-Do you want to help this project? You did some modification or created something new for this setuP? Contribute!
+Do you want to help this project? You did some modification or created something new for this setup? Contribute!
 Here you can find the contribution guidelines
 
 ### New Keyboard Layout
-In order to add a new keyboard layout you must add:
+In order to add a new keyboard layout you must add to the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) the following layers:
 * 1:1 scale keyboard layout 
 * 1:1 scale keyboard layout mask that excludes any symbol on the "standard-sized" keys (keep "odd shaped" keys) 
-to the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd)
 
 
 ### New/Modified Keycap Design
+How to add a new keycap:
+1) duplicate TEMPLATE layer
+2) modify TEMPLATE copy layer position (should be covering a key)
+3) open TEMPLATE copy psd
+4) modify TEMPLATE copy psd
+5) change the character in the top left corner (should match the key it's covering)
+6) save and close the TEMPLATE copy psd
+7) rename TEMPLATE copy and set it to visible
 
-Design:
+In order to keep the keycap designs consistent you should follow these guidelines:
+
+***Design***
+
 Do not obstruct top left corner (that's the spot for the keycap symbol!), keep the design centered, avoid adding design details near the canvas edges (when cutting the keycap from the paper, small errors could chip that detail away), align to guides. New design must be consistent with the current one.
 
-Colors:
+
+***Colors***
+
 Use one of the provided levels as background color for the keycap. Keep background colors consistent with their usage
 
-Text: 
+
+***Text***
+
 You must include text (in english). You can use full words or abbreviations. Use 30 pt San Francisco Heavy. Prefer capital letters, color black, white outline/background. It must be vertically centered and above any other layer.
 
-Shapes:
+
+***Shapes***
+
 You must include simple shapes (fine details get lost during the printing phase). Prefer color white, use other colors only if it's necessary to convey meaning. Text and shapes should “merge” to be perceived as a single element that convey the meaning of the key.
 
 
