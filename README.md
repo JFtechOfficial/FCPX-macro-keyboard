@@ -142,7 +142,8 @@ Supported layouts (A4):
 
 
 ## 🎁 Contributing
-How can YOU help this project grow?
+Do you want to help this project? You did some modification or created something new for this setuP? Contribute!
+Here you can find the contribution guidelines
 
 ### New Keyboard Layout
 In order to add a new keyboard layout you must add:
@@ -154,7 +155,7 @@ to the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keybo
 ### New/Modified Keycap Design
 
 Design:
-Do not obstruct top left corner (that's the spot of the keycap symbol!), keep the design centered, avoid adding design details near the canvas edges (when cutting small errors could chip them away), align to guides. New design must be consistent with the current one.
+Do not obstruct top left corner (that's the spot for the keycap symbol!), keep the design centered, avoid adding design details near the canvas edges (when cutting the keycap from the paper, small errors could chip that detail away), align to guides. New design must be consistent with the current one.
 
 Colors:
 Use one of the provided levels as background color for the keycap. Keep background colors consistent with their usage
