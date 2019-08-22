@@ -1,9 +1,10 @@
 # FCPX Macro Keyboard
+[![banner](hhttps://dl.dropboxusercontent.com/s/kjas0ec2ibrgzes/banner-FCPX-macro-keyboard.png?dl=0 "banner with JFtech logo & social")](https://linktr.ee/jftechofficial)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
 
-<strong>Convert any kind of usb keyboard into a fully programmable macro keyboard for FCPX. 
+<strong>Convert any kind of USB keyboard into a fully programmable macro keyboard and add functions for FCPX. 
 
-Add MIDI controls using your smartphone/tablet. </strong>
+Integrate MIDI controls using your smartphone/tablet. </strong>
 
 You can also read this in [Italiano🇮🇹](README-it-IT.md)
 
@@ -132,7 +133,7 @@ The currently available keycaps are:
 
 
 
-Use the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) to preview how you want to arrange your macro keys.
+Use the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) to preview and customize how you want to arrange your macro keys.
 If the keyboard layout you are using fits in an A4 paper sheet you are ready to print, otherwise you have to rearrange the keycap designs to make them fit.
 
 Supported layouts (A4):
