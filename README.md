@@ -134,6 +134,7 @@ The currently available keycap designs are:
 
 
 Use the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) to preview and customize how you want to arrange your macro keys.
+
 How to modify the layout:
 1) modify keycap layer position
 2) open keycap psd
@@ -159,13 +160,13 @@ In order to add a new keyboard layout you must add to the [Keyboard-layout file]
 
 ### New/Modified Keycap Design
 How to add a new keycap:
-1) duplicate TEMPLATE layer
-2) modify TEMPLATE copy layer position (should be covering a key)
-3) open TEMPLATE copy psd
-4) modify TEMPLATE copy psd
+1) duplicate `TEMPLATE` layer
+2) modify `TEMPLATE copy` layer position (should be covering a key)
+3) open `TEMPLATE copy` psd
+4) modify `TEMPLATE copy` psd
 5) change the character in the top left corner (should match the key it's covering)
-6) save and close the TEMPLATE copy psd
-7) rename TEMPLATE copy and set it to visible
+6) save and close the `TEMPLATE copy` psd
+7) rename `TEMPLATE copy` and set it to visible
 
 In order to keep the keycap designs consistent you should follow these guidelines:
 
