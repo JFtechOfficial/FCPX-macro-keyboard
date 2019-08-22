@@ -1,7 +1,7 @@
 # FCPX Macro Keyboard
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
-![license](https://img.shields.io/github/license/JFtechOfficial/repository_template.svg) 
-![GitHub issues](https://img.shields.io/github/issues/JFtechOfficial/repository_template.svg) 
+![license](https://img.shields.io/github/license/JFtechOfficial/FCPX-macro-keyboard.svg) 
+![GitHub issues](https://img.shields.io/github/issues/JFtechOfficial/FCPX-macro-keyboard.svg) 
 
 Convert any kind of usb keyboard into a fully programmable macro keyboard for FCPX. Add MIDI controls using your smartphone/tablet. You can also read this in [Italiano🇮🇹](README-it-IT.md)
 
