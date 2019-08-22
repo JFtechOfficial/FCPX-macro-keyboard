@@ -1,12 +1,12 @@
 # FCPX Macro Keyboard
-[![banner](hhttps://dl.dropboxusercontent.com/s/kjas0ec2ibrgzes/banner-FCPX-macro-keyboard.png?dl=0 "banner with JFtech logo & social")](https://linktr.ee/jftechofficial)
+[![banner](hhttps://dl.dropboxusercontent.com/s/kjas0ec2ibrgzes/banner-FCPX-macro-keyboard.png?dl=1 "banner with JFtech logo & social")](https://linktr.ee/jftechofficial)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
 
-<strong>Convert any kind of USB keyboard into a fully programmable macro keyboard and add functions for FCPX. 
+Convert any kind of USB keyboard into a fully programmable macro keyboard and add functions for FCPX. 
 
-Integrate MIDI controls using your smartphone/tablet. </strong>
+Integrate MIDI controls using your smartphone/tablet.
 
-You can also read this in [Italiano🇮🇹](README-it-IT.md)
+This repo will provide you with **instructions** on how to set it all up, along with **custom keycaps designs** for your macro keyboard and some **scripts** I personally use during videoediting. You can also read this in [Italiano🇮🇹](README-it-IT.md)
 
 
 ## 🚀 Getting started
