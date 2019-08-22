@@ -1,7 +1,11 @@
 # FCPX Macro Keyboard
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
 
-Convert any kind of usb keyboard into a fully programmable macro keyboard for FCPX. Add MIDI controls using your smartphone/tablet. You can also read this in [Italiano🇮🇹](README-it-IT.md)
+<strong>Convert any kind of usb keyboard into a fully programmable macro keyboard for FCPX. 
+
+Add MIDI controls using your smartphone/tablet. </strong>
+
+You can also read this in [Italiano🇮🇹](README-it-IT.md)
 
 
 ## 🚀 Getting started
@@ -128,8 +132,9 @@ The currently available keycaps are:
 
 
 
-Use Keyboard-layout to preview how you want to arrange your macro keys.
+Use the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Keyboard-layout.psd) to preview how you want to arrange your macro keys.
 If the keyboard layout you are using fits in an A4 paper sheet you are ready to print, otherwise you have to rearrange the keycap designs to make them fit.
+
 Supported layouts (A4):
 * Apple en_US keyboard layout
 * Apple en_International keyboard layout
@@ -148,7 +153,7 @@ to the [Keyboard-layout file](https://github.com/JFtechOfficial/FCPX-macro-keybo
 ### New/Modified Keycap Design
 
 Design:
-Do not obstruct top left corner, keep the design centered, avoid adding design details near the canvas edges, align to guides. New design must be consistent with the current one.
+Do not obstruct top left corner (that's the spot of the keycap symbol!), keep the design centered, avoid adding design details near the canvas edges (when cutting small errors could chip them away), align to guides. New design must be consistent with the current one.
 
 Colors:
 Use one of the provided levels as background color for the keycap. Keep background colors consistent with their usage
