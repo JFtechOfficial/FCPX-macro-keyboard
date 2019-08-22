@@ -1,5 +1,5 @@
 # FCPX Macro Keyboard
-[![banner](hhttps://dl.dropboxusercontent.com/s/kjas0ec2ibrgzes/banner-FCPX-macro-keyboard.png?dl=1 "banner with JFtech logo & social")](https://linktr.ee/jftechofficial)
+[![banner](https://dl.dropboxusercontent.com/s/kjas0ec2ibrgzes/banner-FCPX-macro-keyboard.png?dl=1 "banner with JFtech logo & social")](https://linktr.ee/jftechofficial)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
 
 Convert any kind of USB keyboard into a fully programmable macro keyboard and add functions for FCPX. 
