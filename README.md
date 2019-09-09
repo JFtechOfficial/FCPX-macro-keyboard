@@ -161,12 +161,13 @@ In order to add a new keyboard layout you must add to the [Keyboard-layout file]
 ### New/Modified Keycap Design
 How to add a new keycap:
 1) duplicate `TEMPLATE` layer
-2) modify `TEMPLATE copy` layer position (should be covering a key)
-3) open `TEMPLATE copy` psd
-4) modify `TEMPLATE copy` psd
-5) change the character in the top left corner (should match the key it's covering)
-6) save and close the `TEMPLATE copy` psd
-7) rename `TEMPLATE copy` and set it to visible
+2) set `TEMPLATE copy` layer to visible
+3) change `TEMPLATE copy` position (should be covering a key)
+4) open `TEMPLATE copy` psd
+5) modify `TEMPLATE copy` psd
+6) change the character in the top left corner (should match the key it's covering)
+7) save and close the `TEMPLATE copy` psd
+8) rename `TEMPLATE copy` with a descpritive name
 
 In order to keep the keycap designs consistent you should follow these guidelines:
 
@@ -182,12 +183,12 @@ Use one of the provided levels as background color for the keycap. Keep backgrou
 
 ***Text***
 
-You must include text (in english). You can use full words or abbreviations. Use 30 pt San Francisco Heavy. Prefer capital letters, color black, white outline/background. It must be vertically centered and above any other layer.
+You must include text (in english). You can use full words or abbreviations. Use 30 pt San Francisco Heavy. Prefer capital letters, color black, white outline/background. It must be vertically centered and not obstructed by other layers.
 
 
 ***Shapes***
 
-You must include simple shapes (fine details get lost during the printing phase). Prefer color white, use other colors only if it's necessary to convey meaning. Text and shapes should “merge” to be perceived as a single element that convey the meaning of the key.
+You must include simple shapes (fine details get lost during the printing phase). Prefer color white for the shapes, use other colors only if it's necessary to convey meaning. Text and shapes should “merge” to be perceived as a single element that convey the meaning of the key.
 
 
 ### New Script
