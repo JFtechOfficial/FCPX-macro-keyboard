@@ -4,9 +4,9 @@
 
 Convert any kind of USB keyboard into a fully programmable macro keyboard and add functions for FCPX. 
 
-Integrate MIDI controls using your smartphone/tablet.
+Integrate MIDI controls using your smartphone/tablet touchscreen.
 
-This repo will provide you with **instructions** on how to set it all up, along with **custom keycaps designs** for your macro keyboard and some **scripts** I personally use during videoediting. You can also read this in [Italiano🇮🇹](README-it-IT.md)
+This repo will provide you with **instructions** on how to set it all up, along with **custom keycaps designs** for your macro keyboard and some **scripts** I personally use during my videoediting sessions.
 
 
 ## 🚀 Getting started
@@ -81,7 +81,7 @@ Background colors were assigned as such:
 | Grey          | Transition    | Transitions are grey. Everything you can inspect in the Transition inspector |
 | Orange        | FCPX layout   | Everything you can change about FCPX layout (es. workspaces) |
 | Purple        | Title/Generator | Title role is purple. Everything you can inspect in the Generator inspector |
-| Red           | Clips, media & other | Here is everything left |
+| Red           | Clips, media & other | Everything left |
 
 The currently available keycap designs are:
 
