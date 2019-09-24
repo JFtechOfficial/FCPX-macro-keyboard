@@ -87,10 +87,10 @@ The currently available keycap designs are:
 
 | KEYCAP        | NOTES |
 | :-----------: | ------|
-| Add-Blend          | [Set Blend Mode to Add](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Blend%20mode.scpt) |
+| Add-Blend          | [Set Blend Mode to Add] |
 | Adjustment-Layer         | Add an Adjustment Layer title to the timeline |
 | Audio-Denoiser          | [Apply Audio Denoiser effect to an audio clip and open Audio inspector](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Audio%20Denoiser.scpt) |
-| Behind-Blend        | [Set Blend Mode to Behind](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Blend%20mode.scpt) |
+| Behind-Blend        | [Set Blend Mode to Behind] |
 | Brush        | Add Brush title to the timeline |
 | Cam-Rig        | Add Cam Rig title to the timeline |
 | Chroma-Key           | Apply Keyer effect to a video clip |
@@ -107,7 +107,7 @@ The currently available keycap designs are:
 | Line-Solid        | Add Line Solid title to the timeline |
 | Lut           | Apply Lut effect to a video clip |
 | MVMT1&2        | [Open a given submenu in the title and generator sidebar](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/MVMT.scpt) |
-| Normal-Blend    | [Set Blend Mode to Normal](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Blend%20mode.scpt) |
+| Normal-Blend    | [Set Blend Mode to Normal] |
 | Outro        | [Add Outro generator at the end of the timeline and wrap it in a new compound clip called "Outro"](https://github.com/JFtechOfficial/FCPX-macro-keyboard/blob/master/Outro.scpt) |
 | Point-Tracker           | Apply Point Tracker effect to a video clip |
 | Slide-Right     | Apply Slide Right transition to a video clip|
