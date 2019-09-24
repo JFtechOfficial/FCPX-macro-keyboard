@@ -98,7 +98,7 @@ The currently available keycap designs are:
 | Custom-Title          | Add Custom title to the timeline |
 | Draw-Mask       | Apply Draw Mask effect to a video clip |
 | Detach-Audio           | Detach audio from a clip |
-| fit      | Set video player size to fit (not working yet) |
+| fit      | Set video player size to fit |
 | Folder-BK        | Open Backup folder in Finder |
 | Folder-YT        | Open YouTube folder in Finder |
 | Font          | Apply a given font to a text |
@@ -122,12 +122,12 @@ The currently available keycap designs are:
 | Workspace-Effect        | Set the workspace to your "effects and refinements" workspace |
 | 1x       | Set retiming of a clip back to 100% |
 | 10%       | Set retiming of a clip to 10% |
-| 150percent      | Set video player size to 150% (not working yet) |
+| 150percent      | Set video player size to 150% |
 | 2x       | Set retiming of a clip to 200% |
 | 25%       | Set retiming of a clip to 25% |
 | 4x       | Set retiming of a clip to 400% |
 | 4pt-Blur           | Apply 4 Points Blur effect to a video clip |
-| 50percent      | Set video player size to 50% (not working yet) |
+| 50percent      | Set video player size to 50% |
 | 50%       | Set retiming of a clip to 50% |
 | 8x       | Set retiming of a clip to 800% |
 
