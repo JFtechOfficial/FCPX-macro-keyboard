@@ -34,8 +34,8 @@ This repo will provide you with **instructions** on how to set it all up, along 
 
 ## ⚙️ Configuration
 Make sure:
-- you have a dedicated Settings in USB Overdrive for the keyboard you intend to use as macro keyboard 
-- that Settings entry is selected in the dropdown menu.
+- you have a dedicated Settings profile in USB Overdrive for the keyboard you intend to use as macro keyboard 
+- that Settings profile is selected in the dropdown menu.
 
 ### Macro Keyboard
 if you want to assign a FCPX shortcut to a key:
