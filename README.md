@@ -9,7 +9,7 @@ Integrate MIDI controls using your smartphone/tablet touchscreen.
 This repo will provide you with **instructions** on how to set it all up, along with **custom keycaps designs** for your macro keyboard and some **scripts** I personally use during my videoediting sessions.
 
 
-![Imgur](http://imgur.com/LNE4bU9.gif)
+![Imgur](http://i.imgur.com/LNE4bU9.gif)
 
 ## 🚀 Getting started
 
